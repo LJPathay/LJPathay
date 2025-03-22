@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @LJPathay or Lebron James Pathay
-- 👀 I’m interested in Nothing currently...
-- 🌱 I’m currently learning Figma, Laravel and etc.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me idk just fork me...
-- 😄 Pronouns: I'm a dude. that's it.
-- ⚡ Fun fact: I fucking hate my life.
+# 👋 Hello, I'm LJPathay
+
+## About Me
+Passionate coder on a learning journey. Still a beginner but eager to grow and improve with each project. Currently exploring the fundamentals and building my skills one commit at a time.
+
+## Current Focus
+Currently enhancing my expertise in SQL and web design, while working on my IT9 project. Always looking to connect with fellow developers and collaborate on innovative projects.
+
+## Let's Connect
+Feel free to reach out for collaborations or just to exchange ideas. The path to greatness is built one commit at a time!
 
 <!---
 LJPathay/LJPathay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
