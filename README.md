@@ -11,7 +11,6 @@
 - [Task27](https://github.com/LJPathay/Task27) - HTML Activity for Task 27 Laravel
 
 ### 🖥️ IT Projects
-- [IT13](https://github.com/LJPathay/IT13) - IT13 Project
 - [IT9_Project](https://github.com/LJPathay/IT9_Project) - Laravel Project for IT9
 - [IT92ndLab](https://github.com/LJPathay/IT92ndLab) - Basics Lab
 - [CCE106_Project](https://github.com/LJPathay/CCE106_Project) - Flutter Project for CCE106 (Still Ongoing)
