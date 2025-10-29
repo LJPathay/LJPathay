@@ -1,20 +1,17 @@
-# 👋 Hi, I'm LJPathay
+<h1 align="center">Hi 👋, I'm LJPathay</h1>
+<h3 align="center">A passionate backend Developer currently studying in University of Mindanao</h3>
 
-## 📁 My Projects
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ljpathay&label=Profile%20views&color=0e75b6&style=flat" alt="ljpathay" /> </p>
 
-### 🔬 Physics
-- [PHYS101-L](https://github.com/LJPathay/PHYS101-L) - Projectile Motion Simulator
+- 🔭 I’m currently working on [CCE106_Project and IT12_Project](https://github.com/LJPathay/CCE106_Project https://github.com/jtestrosos/it12_project)
 
-### 💻 Web Development
-- [Task25](https://github.com/LJPathay/Task25) - HTML Activity for Task 25 Laravel
-- [Task26](https://github.com/LJPathay/Task26) - HTML Activity for Task 26 Laravel
-- [Task27](https://github.com/LJPathay/Task27) - HTML Activity for Task 27 Laravel
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-### 🖥️ IT Projects
-- [IT13 Project](https://github.com/LJPathay/IT13_Project) - IT13 Project
-- [IT9_Project](https://github.com/LJPathay/IT9_Project) - Laravel Project for IT9
-- [IT92ndLab](https://github.com/LJPathay/IT92ndLab) - Basics Lab
-- [CCE106_Project](https://github.com/LJPathay/CCE106_Project) - Flutter Project for CCE106 (Still Ongoing)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-### ⚙️ Config & Misc
-- [LJPathay](https://github.com/LJPathay/LJPathay) - 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ljpathay&show_icons=true&locale=en&layout=compact" alt="ljpathay" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ljpathay&show_icons=true&locale=en" alt="ljpathay" /></p>
