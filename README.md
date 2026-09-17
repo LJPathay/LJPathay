@@ -2,7 +2,7 @@
 
 # Hi, I'm **Lebron James Pathay** 👋
 
-### Backend Developer | CS Student at University of Mindanao
+### Backend Developer | IT Student at University of Mindanao
 
 [![GitHub](https://img.shields.io/badge/GitHub-LJPathay-181717?style=for-the-badge&logo=github)](https://github.com/LJPathay)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lebron%20Pathay-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lebron-james-pathay-bb42bb328/)
