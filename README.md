@@ -50,10 +50,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://img.shields.io/github/stars/LJPathay?style=for-the-badge&logo=github&color=yellow&label=Stars)
-![Repos](https://img.shields.io/github/repos/LJPathay?style=for-the-badge&logo=github&color=blue&label=Repos)
-![Followers](https://img.shields.io/github/followers/LJPathay?style=for-the-badge&logo=github&color=purple&label=Followers)
+[![LJPathay's GitHub stats](https://github-stats-extended.vercel.app/api?username=LJPathay)](https://github.com/stats-organization/github-stats-extended)
 
 </div>
 
