@@ -72,18 +72,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="50" alt="Quickdraw" title="Quickdraw"/>
-  &nbsp;&nbsp;
-  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="50" alt="Pull Shark" title="Pull Shark"/>
-  &nbsp;&nbsp;
-  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="50" alt="YOLO" title="YOLO"/>
-</p>
-
----
-
 <div align="center">
 
 ### 💬 *"Always learning, always building. Let's create something amazing together!"*
