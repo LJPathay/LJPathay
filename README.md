@@ -2,7 +2,7 @@
 
 # Hi, I'm **Lebron James Pathay** 👋
 
-### Backend Developer | IT Student at University of Mindanao
+### Backend Developer | BSIT Student at University of Mindanao
 
 [![GitHub](https://img.shields.io/badge/GitHub-LJPathay-181717?style=for-the-badge&logo=github)](https://github.com/LJPathay)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lebron%20Pathay-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lebron-james-pathay-bb42bb328/)
@@ -51,9 +51,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LJPathay&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LJPathay&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://img.shields.io/github/stars/LJPathay?style=for-the-badge&logo=github&color=yellow&label=Stars)
+![Repos](https://img.shields.io/github/repos/LJPathay?style=for-the-badge&logo=github&color=blue&label=Repos)
+![Followers](https://img.shields.io/github/followers/LJPathay?style=for-the-badge&logo=github&color=purple&label=Followers)
 
 </div>
 
@@ -61,7 +61,12 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LJPathay&theme=radical&hide_border=true)
+![Languages](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Languages](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Languages](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Languages](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Languages](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Languages](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
@@ -83,6 +88,6 @@
 
 ### 💬 *"Always learning, always building. Let's create something amazing together!"*
 
-![Visitors](https://komarev.com/ghpvc/?username=LJPathay&color=blueviolet&style=for-the-badge)
+![Visitors](https://komarev.com/ghpvc/?username=LJPathay&color=blueviolet&style=for-the-badge&label=Profile+Views)
 
 </div>
