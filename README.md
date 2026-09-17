@@ -1,56 +1,88 @@
 <div align="center">
-  <h1>👋 Hi, I'm Lebron James Pathay</h1>
-  <h3>Passionate Backend Developer | University of Mindanao</h3>
-  
-  <img src="https://komarev.com/ghpvc/?username=ljpathay&label=Profile%20views&color=0e75b6&style=flat" alt="ljpathay" />
+
+# Hi, I'm **Lebron James Pathay** 👋
+
+### Backend Developer | CS Student at University of Mindanao
+
+[![GitHub](https://img.shields.io/badge/GitHub-LJPathay-181717?style=for-the-badge&logo=github)](https://github.com/LJPathay)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lebron%20Pathay-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lebron-james-pathay-bb42bb328/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel)](https://porf-seven.vercel.app/)
+
 </div>
 
 ---
 
-### 🚀 About Me
-- 💻 Backend Developer passionate about building scalable applications
-- 🎓 Currently studying at **University of Mindanao**
+## 🚀 About Me
+
+- 💻 Backend developer focused on building **scalable web applications**
+- 🎓 BS Information Technology student at **University of Mindanao**
 - 📍 Based in **Davao City, Philippines**
-- 🌍 Open to collaboration and learning new technologies
+- 🧩 Currently working on my **capstone project**
 - 😴 I may be slow to respond, but I'm committed to quality work
 
-### 🛠️ Tech Stack
-**Languages:** PHP, Python, JavaScript, SQL  
-**Backend Frameworks:** Laravel, Django  
-**Databases:** MySQL, PostgreSQL  
-**Tools:** Git, Docker, VS Code
+---
 
-### 💼 Currently Working On
-- 🔭 [IT16-Project](https://github.com/LJPathay/IT16-Project) - Active development
-- 🔭 [CCE106_Project](https://github.com/LJPathay/CCE106_Project)
-- 🔭 [IT12_Project](https://github.com/jtestrosos/it12_project)
+## 🛠️ Tech Stack
 
-### 📊 GitHub Statistics
+| Category | Technologies |
+|---|---|
+| **Languages** | PHP, Python, JavaScript, TypeScript, SQL |
+| **Backend** | Laravel, Django |
+| **Frontend** | Blade, HTML/CSS, Flutter |
+| **Databases** | MySQL, PostgreSQL |
+| **Tools** | Git, Docker, VS Code |
+| **Platforms** | Vercel, Railway |
+
+---
+
+## 🔥 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [**WiWaste**](https://github.com/LJPathay/WiWaste) | Capstone project - waste management system | TypeScript |
+| [**SecureLearn (SL_IT21)**](https://github.com/LJPathay/SL_IT21) | Web-based security awareness training & certification platform | Laravel, Blade |
+| [**IT16-Project**](https://github.com/LJPathay/IT16-Project) | Continuation of IT15 with security implementations | HTML |
+| [**ERP_LJP_ITSOLUTIONS**](https://github.com/LJPathay/ERP_LJP_ITSOLUTIONS) | ERP system project for IT15 | HTML |
+| [**CCE106_Project**](https://github.com/LJPathay/CCE106_Project) | Flutter mobile application | Dart, Flutter |
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ljpathay&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ljpathay&show_icons=true&locale=en" alt="GitHub Stats" />
-</div>
 
-### 🤝 Connect With Me
-<div align="center">
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=globe)](https://portfolio-resume-4owo.onrender.com/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lebron-james-pathay-bb42bb328/)
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/Lebron2604)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/LJPathay)
-  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LJPathay&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LJPathay&layout=compact&theme=radical&hide_border=true)
+
 </div>
 
 ---
 
-### 📈 Activity
-- 378+ contributions in the last year
-- 15+ repositories
-- Actively contributing to university and personal projects
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LJPathay&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="50" alt="Quickdraw" title="Quickdraw"/>
+  &nbsp;&nbsp;
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="50" alt="Pull Shark" title="Pull Shark"/>
+  &nbsp;&nbsp;
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="50" alt="YOLO" title="YOLO"/>
+</p>
 
 ---
 
 <div align="center">
-  <i>Always learning, always building. Let's create something amazing together! 🚀</i>
+
+### 💬 *"Always learning, always building. Let's create something amazing together!"*
+
+![Visitors](https://komarev.com/ghpvc/?username=LJPathay&color=blueviolet&style=for-the-badge)
+
 </div>
