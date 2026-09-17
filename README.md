@@ -50,7 +50,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-[![LJPathay's GitHub stats](https://github-stats-extended.vercel.app/api?username=LJPathay)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 
 </div>
 
